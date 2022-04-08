@@ -9,7 +9,7 @@ conda activate ABCD
 ```
 
 # Dataset
-USPTO_41W was used as pretraining dataset: `data/41W_pretrain`
+USPTO_410k was used as pretraining dataset: `data/410k_pretrain`
 The data for training, dev and testing of Buchwald-Hartwig are provided in ```data/Buchwald-Hartwig``` file. 
 The data for training, dev and testing of Chan-Lam are provided in ```data/Chan-Lam``` file.
 The data for training, dev and testing of Hiyama are provided in```data/ Hiyama``` file.
