@@ -35,3 +35,6 @@ run Compare target and predicted accuracy.py
 run transformer.py 
 get a transformer-transfer model
 Continue Step 2 and 3, and get the accuracy of each reaction after applying the transfer learning strategy.
+
+In this paper, UMAP and TMAP are authorized by the CC-BY protocol.
+https://creativecommons.org/licenses/by/4.0/legalcode
